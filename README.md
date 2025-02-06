@@ -1,0 +1,2 @@
+# horecastore.ae
+subdomain takeover
