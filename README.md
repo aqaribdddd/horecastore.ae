@@ -1,2 +1,2 @@
-# horecastore.ae
-subdomain takeover
+# Website deployment on free domain 
+
